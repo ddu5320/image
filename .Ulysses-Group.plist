@@ -22,52 +22,116 @@
 			</dict>
 			<key>01_color.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>507622376.77141601</real>
 				<key>lastModification</key>
-				<real>507618642.71979398</real>
+				<real>507622376.77141601</real>
 				<key>version</key>
 				<dict>
 					<key>3eb6d89cf836aa017fa3922df75a807c5f329d60ec9b0eb21b578fb42e145574</key>
-					<integer>31</integer>
+					<integer>64</integer>
+				</dict>
+			</dict>
+			<key>01start.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>507622403.75239599</real>
+				<key>version</key>
+				<dict>
+					<key>3eb6d89cf836aa017fa3922df75a807c5f329d60ec9b0eb21b578fb42e145574</key>
+					<integer>70</integer>
 				</dict>
 			</dict>
 			<key>02_style.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>507622376.88153702</real>
 				<key>lastModification</key>
-				<real>507620131.09495801</real>
+				<real>507622376.88153702</real>
 				<key>version</key>
 				<dict>
 					<key>3eb6d89cf836aa017fa3922df75a807c5f329d60ec9b0eb21b578fb42e145574</key>
-					<integer>39</integer>
+					<integer>67</integer>
+				</dict>
+			</dict>
+			<key>02level2.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>507622507.63064301</real>
+				<key>version</key>
+				<dict>
+					<key>3eb6d89cf836aa017fa3922df75a807c5f329d60ec9b0eb21b578fb42e145574</key>
+					<integer>81</integer>
 				</dict>
 			</dict>
 			<key>03_attitude.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>507622376.78604501</real>
 				<key>lastModification</key>
-				<real>507618633.85101199</real>
+				<real>507622376.78604501</real>
 				<key>version</key>
 				<dict>
 					<key>3eb6d89cf836aa017fa3922df75a807c5f329d60ec9b0eb21b578fb42e145574</key>
-					<integer>27</integer>
+					<integer>65</integer>
+				</dict>
+			</dict>
+			<key>03level3.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>507622512.20152301</real>
+				<key>version</key>
+				<dict>
+					<key>3eb6d89cf836aa017fa3922df75a807c5f329d60ec9b0eb21b578fb42e145574</key>
+					<integer>83</integer>
 				</dict>
 			</dict>
 			<key>04_type.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>507622376.88074201</real>
 				<key>lastModification</key>
-				<real>507620131.09495598</real>
+				<real>507622376.88074201</real>
 				<key>version</key>
 				<dict>
 					<key>3eb6d89cf836aa017fa3922df75a807c5f329d60ec9b0eb21b578fb42e145574</key>
-					<integer>39</integer>
+					<integer>66</integer>
 				</dict>
 			</dict>
 			<key>100_color.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>507622071.89495999</real>
 				<key>lastModification</key>
-				<real>507621438.40272897</real>
+				<real>507622071.89495999</real>
 				<key>version</key>
 				<dict>
 					<key>3eb6d89cf836aa017fa3922df75a807c5f329d60ec9b0eb21b578fb42e145574</key>
-					<integer>51</integer>
+					<integer>57</integer>
+				</dict>
+			</dict>
+			<key>README - 2.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>507622101.567469</real>
+				<key>lastModification</key>
+				<real>507622101.567469</real>
+				<key>version</key>
+				<dict>
+					<key>3eb6d89cf836aa017fa3922df75a807c5f329d60ec9b0eb21b578fb42e145574</key>
+					<integer>58</integer>
 				</dict>
 			</dict>
 			<key>README.md</key>
@@ -83,11 +147,11 @@
 			<key>SUMMARY.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>507618633.85100698</real>
+				<real>507622194.19653797</real>
 				<key>version</key>
 				<dict>
 					<key>3eb6d89cf836aa017fa3922df75a807c5f329d60ec9b0eb21b578fb42e145574</key>
-					<integer>27</integer>
+					<integer>61</integer>
 				</dict>
 			</dict>
 			<key>attitude.md.md</key>
@@ -120,12 +184,16 @@
 			</dict>
 			<key>style.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>507622376.77025503</real>
 				<key>lastModification</key>
-				<real>507621438.39942098</real>
+				<real>507622376.77025503</real>
 				<key>version</key>
 				<dict>
 					<key>3eb6d89cf836aa017fa3922df75a807c5f329d60ec9b0eb21b578fb42e145574</key>
-					<integer>50</integer>
+					<integer>63</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -137,6 +205,9 @@
 		</array>
 		<array>
 			<string>README.md</string>
+		</array>
+		<array>
+			<string>README - 2.md</string>
 		</array>
 		<array>
 			<string>SUMMARY.md</string>
@@ -165,6 +236,15 @@
 		<array>
 			<string>02_style.md</string>
 		</array>
+		<array>
+			<string>01start.md</string>
+		</array>
+		<array>
+			<string>02level2.md</string>
+		</array>
+		<array>
+			<string>03level3.md</string>
+		</array>
 	</array>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
@@ -173,7 +253,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>3eb6d89cf836aa017fa3922df75a807c5f329d60ec9b0eb21b578fb42e145574</key>
-			<integer>52</integer>
+			<integer>83</integer>
 		</dict>
 	</dict>
 </dict>

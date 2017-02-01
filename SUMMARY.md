@@ -1,6 +1,8 @@
 # Summary
 
-* [Introduction.md](README.md)
-* [attitude.md](attitude.md.md)
-* [color.md](color.md.md)
+* [Introduction](README.md)
+* [attitude](attitude.md.md)
+* [color](color.md.md)
+
+
 
